@@ -1,0 +1,8 @@
+D:\Develop\Projects\Ren\Ren\bin\Release\Ren.exe.config
+D:\Develop\Projects\Ren\Ren\bin\Release\Ren.exe
+D:\Develop\Projects\Ren\Ren\bin\Release\Ren.pdb
+D:\Develop\Projects\Ren\Ren\obj\Release\Ren.FormMain.resources
+D:\Develop\Projects\Ren\Ren\obj\Release\Ren.Properties.Resources.resources
+D:\Develop\Projects\Ren\Ren\obj\Release\Ren.csproj.GenerateResource.Cache
+D:\Develop\Projects\Ren\Ren\obj\Release\Ren.exe
+D:\Develop\Projects\Ren\Ren\obj\Release\Ren.pdb
